@@ -714,7 +714,7 @@ section{
   }
   
   
-.liquid_shape{
+/* .liquid_shape{
   position: absolute;
   left: 50px;
   bottom: 50px;
@@ -831,4 +831,4 @@ section{
     border-radius: 50% 50% 30% 70% / 60% 30% 70% 40%;
     background-size: 100% 100%;
   }
-}
+} */
